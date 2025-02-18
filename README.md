@@ -8,6 +8,7 @@
 <div align="center"> 
 
 <a href = "mailto:Isabelamageste2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/isabela-mageste-de-andrade-17929831a/"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Isabela-Mageste}/count.svg" /></p> 
